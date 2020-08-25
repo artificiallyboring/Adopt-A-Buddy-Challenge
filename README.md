@@ -33,8 +33,8 @@ Precisely the dataset consists of the following items:
 
 The data folder consists of 2 CSV files
 
-* train.csv - 18834 x 11
-* test.csv - 8072 x 9
+* [train.csv](/train.csv) - 18834 x 11
+* [test.csv](/test.csv) - 8072 x 9
 
 *Sample Submission:*
 
